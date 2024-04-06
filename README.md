@@ -1,9 +1,12 @@
-✨ Desenvolvedora Web em formação. 
-<br>
-🌱 Atualmente estudando JavaScript
-<br>
+### :star2: Hello, I'm Isabela.
+####  
 
-<!---
-isaisabelas/isaisabelas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Developer from Brazil. I love seeing my ideas come to life trough programming. :revolving_hearts:
+
+Skills: JAVASCRIPT / REACT / HTML / CSS
+
+- 🌱 I’m currently learning JavaScript 
+
+
+
+
