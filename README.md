@@ -1,12 +1,14 @@
 ### :star2: Hello, I'm Isabela.
 ####  
 
-I'm a Software Developer from Brazil. I love seeing my ideas come to life trough programming. :revolving_hearts:
+Based in Brazil. 
+My current goal is to build my Data Science Portfolio. :revolving_hearts:
 
-Skills: JAVASCRIPT / REACT / HTML / CSS
+Skills: 
+HTML / CSS / JAVASCRIPT / REACT / NODE.JS 
+PYTHON / SQL / DATA ANALYSIS 
 
-- 🌱 I’m currently learning:
-- JavaScript
+- 🌱 Currently learning:
 - Phyton (Data Science)
 
 
