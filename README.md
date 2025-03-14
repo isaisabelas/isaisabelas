@@ -4,7 +4,7 @@
 Software Developer based in Brazil.  :revolving_hearts:
 
 Skills: 
-HTML / CSS / JAVASCRIPT / REACT / NODE.JS / 
+HTML / CSS / JAVASCRIPT / TYPESCRIPT / REACT / NODE.JS / 
 PYTHON / SQL / DATA ANALYSIS 
 
 - 🌱 Currently learning:
