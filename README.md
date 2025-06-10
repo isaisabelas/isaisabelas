@@ -8,7 +8,8 @@ HTML / CSS / JAVASCRIPT / NODE.JS /
 PYTHON / SQL / DATA ANALYSIS 
 
 - 🌱 Currently learning:
-- Phyton 
+- Phyton
+- SQL
 
 
 
