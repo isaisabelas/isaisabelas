@@ -3,11 +3,12 @@
 
 Skills: 
 HTML / CSS / JAVASCRIPT / NODE.JS / 
-PYTHON / SQL / DATA ANALYSIS 
+PYTHON / SQL / LINUX / DATA ANALYSIS
 
 - 🌱 Currently learning:
 - Phyton
 - SQL
+- Data Engeneering
 
 
 
