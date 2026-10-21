@@ -3,7 +3,7 @@
 - 🌱 Currently learning:
 - Python
 - SQL
-- Data Engeneering
+- Data Engineering
 
 
 
