@@ -1,7 +1,7 @@
 ### :star2: Hello, I'm Isabela.
 ####  
 - 🌱 Currently learning:
-- Phyton
+- Python
 - SQL
 - Data Engeneering
 
